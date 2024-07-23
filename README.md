@@ -16,3 +16,7 @@ Features:
 Next steps:
 - Complete UI and connect to backend
 - Add meal plan page where users can input their requirements (calories, budget, weight, age, sex)
+
+Additional Note
+- CSV file was also not uploaded due to the size of the file please refer to the link below to download the csv
+https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews
